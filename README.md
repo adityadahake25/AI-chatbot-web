@@ -3,7 +3,7 @@
 An AI-powered chatbot web application built using HTML, CSS, and JavaScript.  
 The chatbot generates responses using external APIs and dynamically updates the user interface in real time.
 
------
+---
 
 ## 🔍 Project Overview
 This project demonstrates the integration of third-party APIs with a frontend web application. JavaScript is used to send user input to an AI API, process the response, and render it dynamically in the chat interface.
